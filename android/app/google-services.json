@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735048723697",
+    "project_id": "tazdotask",
+    "storage_bucket": "tazdotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735048723697:android:aedf8e658b0d4b9ae70d50",
+        "android_client_info": {
+          "package_name": "com.example.tezda_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGWo-p8LAXgtQ40EEZ-ZFW2xAhZc4NqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
